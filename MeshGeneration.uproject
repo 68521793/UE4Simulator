@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00040914-08D7-8280-1C05-D34699413CBB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MeshGeneration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
